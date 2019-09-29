@@ -1,4 +1,4 @@
-# Introduction to AI
+# [AI for Everyone](https://www.coursera.org/learn/ai-for-everyone/home/welcome)
 *A Course by Deeplearning.ai on Coursera*
 ## Solution to [Quizzes](https://github.com/SHANK885/Introduction-to-AI/tree/master/Quizzes)
 1. [Week 1](https://github.com/SHANK885/Introduction-to-AI/blob/master/Quizzes/Week%201%20Quiz.pdf)
