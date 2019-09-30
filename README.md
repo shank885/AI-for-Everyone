@@ -15,7 +15,7 @@
 
 ----------------------------------------------------------------------------------------------
 
-## Certificates
+## Certificate
 
 - [AI for Everyone](https://www.coursera.org/account/accomplishments/certificate/D49UQMAETQDW)
 
